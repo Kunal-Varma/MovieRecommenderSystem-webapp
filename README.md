@@ -2,9 +2,8 @@
 
 Content Based Recommender System recommends movies similar to the movies user likes and analyses the sentiments on the reviews given by the user for that movie.
 
-![GIF](./static/mrswsa.gif)
 
-Check out the youtube video if the above preview is not visible: https://www.youtube.com/watch?v=muPDsWgMkpc
+
 
 Check out the live demo: https://movie-recommend-with-sentiment.herokuapp.com/
 
@@ -16,7 +15,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file.
+
 2. Clone this repository in your local system.
 3. Replace YOUR_API_KEY in the `main.py` file.
 4. Open the command prompt from your project directory and run the command `python main.py`.
